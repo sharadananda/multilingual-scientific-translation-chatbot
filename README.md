@@ -2,8 +2,7 @@
 
 **Author:** Sharadananda Mondal  
 **Date:** March 2026  
-**Contact:** sharadananda.mondal@gmail.com
-
+**Contact:**
 ---
 
 ## Overview
