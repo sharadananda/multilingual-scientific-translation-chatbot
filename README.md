@@ -1,8 +1,7 @@
 # Multilingual Scientific Translation Chatbot with RAG
 
 **Author:** Sharadananda Mondal  
-**Date:** March 2026  
-**Contact:**
+March 2026  
 ---
 
 ## Overview
